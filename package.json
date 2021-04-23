@@ -1,0 +1,16 @@
+{
+  "name": "Note Taker",
+  "version": "1.0.0",
+  "description": "Note Taker app built with Express.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrick Walker",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "uuid": "^8.3.0"
+  }
+}

@@ -45,7 +45,7 @@
   After cloning or copying, run npm i and npm mysql in your terminal at the root to install any requirements. Run node server.js to run start the application. 
 
  
-  ![Full Screen ShotL](./assets/images/Note-Taker_Full_Screen.png?raw=true "Full Screen Shot")
+  ![Full Screen ShotL](assets/images/Note-Taker_Full_Screen.png)
   
 
  ## Links

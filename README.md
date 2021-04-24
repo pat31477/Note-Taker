@@ -42,7 +42,7 @@
 
 ## Usage
 
-  After cloning or copying, run npm i and npm mysql in your terminal at the root to install any requirements. Run node server.js to run start the application. Answer the questions.
+  After cloning or copying, run npm i and npm mysql in your terminal at the root to install any requirements. Run node server.js to run start the application. 
 
  
   ![Generated HTML](./assets/images/Generated_HTML_Screen_Shot.JPG?raw=true "Generated HTML")

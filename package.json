@@ -1,5 +1,5 @@
 {
-  "name": "Note Taker",
+  "name": "note-taker",
   "version": "1.0.0",
   "description": "Note Taker app built with Express.js",
   "main": "server.js",
